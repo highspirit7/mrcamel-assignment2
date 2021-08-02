@@ -1,4 +1,5 @@
 # Mr.Camel 기업과제
+[프리온보딩 코스_프론트엔드](https://www.wanted.co.kr/events/pre_onboarding_course_2) 미스터카멜 기업과제 프로젝트입니다.
 
 ## 요구사항
 
